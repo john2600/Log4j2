@@ -1,0 +1,62 @@
+[INFO ] 2016-06-16 20:16:34.385 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:16:34.387 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:16:34.387 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:20:06.846 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:20:06.848 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:20:06.848 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:25:01.599 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:25:01.600 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:25:01.600 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:28:00.652 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:28:00.653 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:28:00.654 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:28:19.887 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:28:19.889 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:28:19.889 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:28:37.303 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:28:37.305 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:28:37.305 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:29:09.685 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:29:09.686 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:29:09.686 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:29:38.107 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:29:38.109 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:29:38.109 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 20:29:45.478 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 20:29:45.480 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 20:29:45.480 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 21:42:08.451 [main] LogDemo - Hello world - info log
+[WARN ] 2016-06-16 21:42:08.453 [main] LogDemo - Hello world - warn log
+[ERROR] 2016-06-16 21:42:08.453 [main] LogDemo - Hello world - error log
+[INFO ] 2016-06-16 21:53:38.466 [main] LogDemo - Valor 1 4
+[INFO ] 2016-06-16 21:53:38.468 [main] LogDemo - Valor 2 10
+[INFO ] 2016-06-16 21:59:08.281 [main] LogDemo - Valor 1 4
+[INFO ] 2016-06-16 21:59:08.282 [main] LogDemo - Valor 2 10
+[INFO ] 2016-06-16 22:18:33.234 [main] LogDemo - Valor 1 4
+[INFO ] 2016-06-16 22:18:33.236 [main] LogDemo - Valor 2 10
+[INFO ] 2016-06-16 22:20:01.499 [main] LogDemo - Valor 1 4
+[INFO ] 2016-06-16 22:20:01.500 [main] LogDemo - Valor 2 10
+[INFO ] 2016-06-16 23:12:17.810 [main] LogDemo - Valor 1 4
+[INFO ] 2016-06-16 23:12:17.813 [main] LogDemo - Valor 2 10
+[INFO ] 2016-06-16 23:14:15.539 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:14:15.540 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:14:32.150 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:14:32.152 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:15:27.237 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:15:27.238 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:15:51.795 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:15:51.798 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:17:36.624 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:17:36.626 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:18:53.926 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:18:53.929 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:21:17.256 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:21:22.460 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:22:37.339 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:22:37.340 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:22:54.101 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:22:54.103 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:50:54.774 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:51:00.128 [main] LogDemo - Valor 2 5
+[INFO ] 2016-06-16 23:54:18.370 [main] LogDemo - Valor 1 2
+[INFO ] 2016-06-16 23:54:20.397 [main] LogDemo - Valor 2 5
